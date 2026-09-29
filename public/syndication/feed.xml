@@ -4,7 +4,71 @@
     <title>PANORAFUS.AI Content Syndication Feed</title>
     <link>https://www.seasonedchristianministrychurch.com</link>
     <description>Repository-backed PANORAFUS.AI content and metrics updates.</description>
-    <lastBuildDate>Mon, 21 Sep 2026 16:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:48:21 GMT</lastBuildDate>
+
+    <item>
+      <title>BLOOD SACRIFICES — CHRIST THE LAMB</title>
+      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/BLOOD_SACRIFICES_CHRIST_THE_LAMB.md</link>
+      <guid>BLOOD_SACRIFICES_CHRIST_THE_LAMB.md:9aac0be4d2062b3f86d426728d621b4f2a4f45ca</guid>
+      <pubDate>Tue, 29 Sep 2026 20:48:07 GMT</pubDate>
+      <description>An Eschatology-Centered Biblical Study of Sin, Atonement, and the Triumph of the Lamb of God</description>
+    </item>
+
+    <item>
+      <title>About PANORAFUS.AI</title>
+      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/ABOUT_PANORAFUS.md</link>
+      <guid>ABOUT_PANORAFUS.md:9aac0be4d2062b3f86d426728d621b4f2a4f45ca</guid>
+      <pubDate>Tue, 29 Sep 2026 20:48:07 GMT</pubDate>
+      <description>PANORAFUS.AI is an AI-powered global devotional platform designed to help people around the world read, search, comment, and discuss the Word of God — with Biblical Eschatology as its first and highest priority.</description>
+    </item>
+
+    <item>
+      <title>Apostle Paul — Genealogy &amp; Life: From Infancy to Death</title>
+      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/APOSTLE_PAUL_GENEALOGY.md</link>
+      <guid>APOSTLE_PAUL_GENEALOGY.md:9aac0be4d2062b3f86d426728d621b4f2a4f45ca</guid>
+      <pubDate>Tue, 29 Sep 2026 20:48:07 GMT</pubDate>
+      <description>Note on Andronicus &amp; Junia (Romans 16:7): Paul calls them &quot;my kinsmen and my fellow-prisoners, who are of note among the apostles, who also were in Christ before me.&quot; This indicates Paul had believing relatives who came to faith in Christ even before his own conversion.</description>
+    </item>
+
+    <item>
+      <title>PANORAFUS.AI App Architecture Builder</title>
+      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/APP_ARCHITECTURE_BUILDER.md</link>
+      <guid>APP_ARCHITECTURE_BUILDER.md:9aac0be4d2062b3f86d426728d621b4f2a4f45ca</guid>
+      <pubDate>Tue, 29 Sep 2026 20:48:07 GMT</pubDate>
+      <description>This document defines the PANORAFUS.AI architecture builder as a documentation-first framework for planning and governing application architecture decisions.</description>
+    </item>
+
+    <item>
+      <title>📖 PANORAFUS OF BIBLICAL ESCHATOLOGY</title>
+      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/BIBLICAL_ESCHATOLOGY.md</link>
+      <guid>BIBLICAL_ESCHATOLOGY.md:9aac0be4d2062b3f86d426728d621b4f2a4f45ca</guid>
+      <pubDate>Tue, 29 Sep 2026 20:48:07 GMT</pubDate>
+      <description>A Philosopher&apos;s Journey Through the Last Things, Inspired by God</description>
+    </item>
+
+    <item>
+      <title>PANORAFUS.AI Book Tariff</title>
+      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/BOOK_TARIFF.md</link>
+      <guid>BOOK_TARIFF.md:9aac0be4d2062b3f86d426728d621b4f2a4f45ca</guid>
+      <pubDate>Tue, 29 Sep 2026 20:48:07 GMT</pubDate>
+      <description>The PANORAFUS.AI Book (published via mdBook) is the official digital publication of PANORAFUS.AI. It consolidates the global network index, theological studies, institutional directories, and eschatological resources into a single accessible, searchable resource.</description>
+    </item>
+
+    <item>
+      <title>Buddhist Religious Institutions</title>
+      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/BUDDHIST_INSTITUTIONS.md</link>
+      <guid>BUDDHIST_INSTITUTIONS.md:9aac0be4d2062b3f86d426728d621b4f2a4f45ca</guid>
+      <pubDate>Tue, 29 Sep 2026 20:48:07 GMT</pubDate>
+      <description>A structured overview of major Buddhist religious institutions worldwide, organized by tradition and function.</description>
+    </item>
+
+    <item>
+      <title>Christian Religious Institutions</title>
+      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/CHRISTIAN_INSTITUTIONS.md</link>
+      <guid>CHRISTIAN_INSTITUTIONS.md:9aac0be4d2062b3f86d426728d621b4f2a4f45ca</guid>
+      <pubDate>Tue, 29 Sep 2026 20:48:07 GMT</pubDate>
+      <description>A structured overview of major Christian religious institutions worldwide, organized by tradition/denomination.</description>
+    </item>
 
     <item>
       <title>PANORAFUS.AI — Global Dashboard Page</title>
@@ -12,70 +76,6 @@
       <guid>PANORAFUS_DASHBOARD.md:f3d5b8d2448b11f5fb9e55d5fd43775c6762f05b</guid>
       <pubDate>Thu, 17 Sep 2026 12:53:00 GMT</pubDate>
       <description>PANORAFUS.AI dashboard overview powered by live repository metrics, indexed institution data, and workflow automation status.</description>
-    </item>
-
-    <item>
-      <title>BLOOD SACRIFICES — CHRIST THE LAMB</title>
-      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/BLOOD_SACRIFICES_CHRIST_THE_LAMB.md</link>
-      <guid>BLOOD_SACRIFICES_CHRIST_THE_LAMB.md:71ac0e260809589c0ea0f7778e6934fed7124e12</guid>
-      <pubDate>Thu, 17 Sep 2026 12:28:14 GMT</pubDate>
-      <description>An Eschatology-Centered Biblical Study of Sin, Atonement, and the Triumph of the Lamb of God</description>
-    </item>
-
-    <item>
-      <title>About PANORAFUS.AI</title>
-      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/ABOUT_PANORAFUS.md</link>
-      <guid>ABOUT_PANORAFUS.md:71ac0e260809589c0ea0f7778e6934fed7124e12</guid>
-      <pubDate>Thu, 17 Sep 2026 12:28:14 GMT</pubDate>
-      <description>PANORAFUS.AI is an AI-powered global devotional platform designed to help people around the world read, search, comment, and discuss the Word of God — with Biblical Eschatology as its first and highest priority.</description>
-    </item>
-
-    <item>
-      <title>Apostle Paul — Genealogy &amp; Life: From Infancy to Death</title>
-      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/APOSTLE_PAUL_GENEALOGY.md</link>
-      <guid>APOSTLE_PAUL_GENEALOGY.md:71ac0e260809589c0ea0f7778e6934fed7124e12</guid>
-      <pubDate>Thu, 17 Sep 2026 12:28:14 GMT</pubDate>
-      <description>Note on Andronicus &amp; Junia (Romans 16:7): Paul calls them &quot;my kinsmen and my fellow-prisoners, who are of note among the apostles, who also were in Christ before me.&quot; This indicates Paul had believing relatives who came to faith in Christ even before his own conversion.</description>
-    </item>
-
-    <item>
-      <title>PANORAFUS.AI App Architecture Builder</title>
-      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/APP_ARCHITECTURE_BUILDER.md</link>
-      <guid>APP_ARCHITECTURE_BUILDER.md:71ac0e260809589c0ea0f7778e6934fed7124e12</guid>
-      <pubDate>Thu, 17 Sep 2026 12:28:14 GMT</pubDate>
-      <description>This document defines the PANORAFUS.AI architecture builder as a documentation-first framework for planning and governing application architecture decisions.</description>
-    </item>
-
-    <item>
-      <title>📖 PANORAFUS OF BIBLICAL ESCHATOLOGY</title>
-      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/BIBLICAL_ESCHATOLOGY.md</link>
-      <guid>BIBLICAL_ESCHATOLOGY.md:71ac0e260809589c0ea0f7778e6934fed7124e12</guid>
-      <pubDate>Thu, 17 Sep 2026 12:28:14 GMT</pubDate>
-      <description>A Philosopher&apos;s Journey Through the Last Things, Inspired by God</description>
-    </item>
-
-    <item>
-      <title>PANORAFUS.AI Book Tariff</title>
-      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/BOOK_TARIFF.md</link>
-      <guid>BOOK_TARIFF.md:71ac0e260809589c0ea0f7778e6934fed7124e12</guid>
-      <pubDate>Thu, 17 Sep 2026 12:28:14 GMT</pubDate>
-      <description>The PANORAFUS.AI Book (published via mdBook) is the official digital publication of PANORAFUS.AI. It consolidates the global network index, theological studies, institutional directories, and eschatological resources into a single accessible, searchable resource.</description>
-    </item>
-
-    <item>
-      <title>Buddhist Religious Institutions</title>
-      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/BUDDHIST_INSTITUTIONS.md</link>
-      <guid>BUDDHIST_INSTITUTIONS.md:71ac0e260809589c0ea0f7778e6934fed7124e12</guid>
-      <pubDate>Thu, 17 Sep 2026 12:28:14 GMT</pubDate>
-      <description>A structured overview of major Buddhist religious institutions worldwide, organized by tradition and function.</description>
-    </item>
-
-    <item>
-      <title>Christian Religious Institutions</title>
-      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/CHRISTIAN_INSTITUTIONS.md</link>
-      <guid>CHRISTIAN_INSTITUTIONS.md:71ac0e260809589c0ea0f7778e6934fed7124e12</guid>
-      <pubDate>Thu, 17 Sep 2026 12:28:14 GMT</pubDate>
-      <description>A structured overview of major Christian religious institutions worldwide, organized by tradition/denomination.</description>
     </item>
 
     <item>

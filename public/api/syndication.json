@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-21T16:15:37.833Z",
+  "generatedAt": "2026-09-29T20:48:21.552Z",
   "dashboard": {
-    "generatedAt": "2026-09-21T16:15:37.833Z",
+    "generatedAt": "2026-09-29T20:48:21.552Z",
     "dataSources": [
       "Top-level PANORAFUS.AI documentation files",
       "Git commit history for the current calendar year",
@@ -106,38 +106,38 @@
       {
         "monthIndex": 5,
         "month": "June",
-        "commits": 2,
-        "docsTouched": 2,
+        "commits": 0,
+        "docsTouched": 0,
         "workflowChanges": 0,
         "codeChanges": 0,
-        "totalActivity": 4
+        "totalActivity": 0
       },
       {
         "monthIndex": 6,
         "month": "July",
-        "commits": 41,
-        "docsTouched": 62,
-        "workflowChanges": 12,
+        "commits": 0,
+        "docsTouched": 0,
+        "workflowChanges": 0,
         "codeChanges": 0,
-        "totalActivity": 115
+        "totalActivity": 0
       },
       {
         "monthIndex": 7,
         "month": "August",
-        "commits": 137,
-        "docsTouched": 396,
-        "workflowChanges": 24,
-        "codeChanges": 42,
-        "totalActivity": 599
+        "commits": 0,
+        "docsTouched": 0,
+        "workflowChanges": 0,
+        "codeChanges": 0,
+        "totalActivity": 0
       },
       {
         "monthIndex": 8,
         "month": "September",
-        "commits": 100,
-        "docsTouched": 245,
-        "workflowChanges": 0,
-        "codeChanges": 55,
-        "totalActivity": 400
+        "commits": 1,
+        "docsTouched": 388,
+        "workflowChanges": 7,
+        "codeChanges": 20,
+        "totalActivity": 416
       },
       {
         "monthIndex": 9,
@@ -169,7 +169,7 @@
     ],
     "kpis": {
       "documentationFiles": 52,
-      "documentationLines": 9151,
+      "documentationLines": 9153,
       "externalLinks": 96,
       "workflows": 7,
       "institutionsIndexed": 177,
@@ -177,7 +177,7 @@
     },
     "trending": {
       "headline": "TRENDING \"PANORAFUS.AI\" TODAY THROUGH THE SIX CONTINENTS.",
-      "generatedDate": "2026-09-21",
+      "generatedDate": "2026-09-29",
       "activeRegions": 6,
       "totalRegions": 6,
       "institutionsIndexed": 177,
@@ -200,76 +200,76 @@
   },
   "items": [
     {
+      "title": "BLOOD SACRIFICES — CHRIST THE LAMB",
+      "summary": "An Eschatology-Centered Biblical Study of Sin, Atonement, and the Triumph of the Lamb of God",
+      "file": "BLOOD_SACRIFICES_CHRIST_THE_LAMB.md",
+      "committedAt": "2026-09-29T20:48:07Z",
+      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/BLOOD_SACRIFICES_CHRIST_THE_LAMB.md",
+      "sha": "9aac0be4d2062b3f86d426728d621b4f2a4f45ca"
+    },
+    {
+      "title": "About PANORAFUS.AI",
+      "summary": "PANORAFUS.AI is an AI-powered global devotional platform designed to help people around the world read, search, comment, and discuss the Word of God — with Biblical Eschatology as its first and highest priority.",
+      "file": "ABOUT_PANORAFUS.md",
+      "committedAt": "2026-09-29T20:48:07Z",
+      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/ABOUT_PANORAFUS.md",
+      "sha": "9aac0be4d2062b3f86d426728d621b4f2a4f45ca"
+    },
+    {
+      "title": "Apostle Paul — Genealogy & Life: From Infancy to Death",
+      "summary": "Note on Andronicus & Junia (Romans 16:7): Paul calls them \"my kinsmen and my fellow-prisoners, who are of note among the apostles, who also were in Christ before me.\" This indicates Paul had believing relatives who came to faith in Christ even before his own conversion.",
+      "file": "APOSTLE_PAUL_GENEALOGY.md",
+      "committedAt": "2026-09-29T20:48:07Z",
+      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/APOSTLE_PAUL_GENEALOGY.md",
+      "sha": "9aac0be4d2062b3f86d426728d621b4f2a4f45ca"
+    },
+    {
+      "title": "PANORAFUS.AI App Architecture Builder",
+      "summary": "This document defines the PANORAFUS.AI architecture builder as a documentation-first framework for planning and governing application architecture decisions.",
+      "file": "APP_ARCHITECTURE_BUILDER.md",
+      "committedAt": "2026-09-29T20:48:07Z",
+      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/APP_ARCHITECTURE_BUILDER.md",
+      "sha": "9aac0be4d2062b3f86d426728d621b4f2a4f45ca"
+    },
+    {
+      "title": "📖 PANORAFUS OF BIBLICAL ESCHATOLOGY",
+      "summary": "A Philosopher's Journey Through the Last Things, Inspired by God",
+      "file": "BIBLICAL_ESCHATOLOGY.md",
+      "committedAt": "2026-09-29T20:48:07Z",
+      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/BIBLICAL_ESCHATOLOGY.md",
+      "sha": "9aac0be4d2062b3f86d426728d621b4f2a4f45ca"
+    },
+    {
+      "title": "PANORAFUS.AI Book Tariff",
+      "summary": "The PANORAFUS.AI Book (published via mdBook) is the official digital publication of PANORAFUS.AI. It consolidates the global network index, theological studies, institutional directories, and eschatological resources into a single accessible, searchable resource.",
+      "file": "BOOK_TARIFF.md",
+      "committedAt": "2026-09-29T20:48:07Z",
+      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/BOOK_TARIFF.md",
+      "sha": "9aac0be4d2062b3f86d426728d621b4f2a4f45ca"
+    },
+    {
+      "title": "Buddhist Religious Institutions",
+      "summary": "A structured overview of major Buddhist religious institutions worldwide, organized by tradition and function.",
+      "file": "BUDDHIST_INSTITUTIONS.md",
+      "committedAt": "2026-09-29T20:48:07Z",
+      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/BUDDHIST_INSTITUTIONS.md",
+      "sha": "9aac0be4d2062b3f86d426728d621b4f2a4f45ca"
+    },
+    {
+      "title": "Christian Religious Institutions",
+      "summary": "A structured overview of major Christian religious institutions worldwide, organized by tradition/denomination.",
+      "file": "CHRISTIAN_INSTITUTIONS.md",
+      "committedAt": "2026-09-29T20:48:07Z",
+      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/CHRISTIAN_INSTITUTIONS.md",
+      "sha": "9aac0be4d2062b3f86d426728d621b4f2a4f45ca"
+    },
+    {
       "title": "PANORAFUS.AI — Global Dashboard Page",
       "summary": "PANORAFUS.AI dashboard overview powered by live repository metrics, indexed institution data, and workflow automation status.",
       "file": "PANORAFUS_DASHBOARD.md",
       "committedAt": "2026-09-17T12:53:00Z",
       "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/PANORAFUS_DASHBOARD.md",
       "sha": "f3d5b8d2448b11f5fb9e55d5fd43775c6762f05b"
-    },
-    {
-      "title": "BLOOD SACRIFICES — CHRIST THE LAMB",
-      "summary": "An Eschatology-Centered Biblical Study of Sin, Atonement, and the Triumph of the Lamb of God",
-      "file": "BLOOD_SACRIFICES_CHRIST_THE_LAMB.md",
-      "committedAt": "2026-09-17T12:28:14Z",
-      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/BLOOD_SACRIFICES_CHRIST_THE_LAMB.md",
-      "sha": "71ac0e260809589c0ea0f7778e6934fed7124e12"
-    },
-    {
-      "title": "About PANORAFUS.AI",
-      "summary": "PANORAFUS.AI is an AI-powered global devotional platform designed to help people around the world read, search, comment, and discuss the Word of God — with Biblical Eschatology as its first and highest priority.",
-      "file": "ABOUT_PANORAFUS.md",
-      "committedAt": "2026-09-17T12:28:14Z",
-      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/ABOUT_PANORAFUS.md",
-      "sha": "71ac0e260809589c0ea0f7778e6934fed7124e12"
-    },
-    {
-      "title": "Apostle Paul — Genealogy & Life: From Infancy to Death",
-      "summary": "Note on Andronicus & Junia (Romans 16:7): Paul calls them \"my kinsmen and my fellow-prisoners, who are of note among the apostles, who also were in Christ before me.\" This indicates Paul had believing relatives who came to faith in Christ even before his own conversion.",
-      "file": "APOSTLE_PAUL_GENEALOGY.md",
-      "committedAt": "2026-09-17T12:28:14Z",
-      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/APOSTLE_PAUL_GENEALOGY.md",
-      "sha": "71ac0e260809589c0ea0f7778e6934fed7124e12"
-    },
-    {
-      "title": "PANORAFUS.AI App Architecture Builder",
-      "summary": "This document defines the PANORAFUS.AI architecture builder as a documentation-first framework for planning and governing application architecture decisions.",
-      "file": "APP_ARCHITECTURE_BUILDER.md",
-      "committedAt": "2026-09-17T12:28:14Z",
-      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/APP_ARCHITECTURE_BUILDER.md",
-      "sha": "71ac0e260809589c0ea0f7778e6934fed7124e12"
-    },
-    {
-      "title": "📖 PANORAFUS OF BIBLICAL ESCHATOLOGY",
-      "summary": "A Philosopher's Journey Through the Last Things, Inspired by God",
-      "file": "BIBLICAL_ESCHATOLOGY.md",
-      "committedAt": "2026-09-17T12:28:14Z",
-      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/BIBLICAL_ESCHATOLOGY.md",
-      "sha": "71ac0e260809589c0ea0f7778e6934fed7124e12"
-    },
-    {
-      "title": "PANORAFUS.AI Book Tariff",
-      "summary": "The PANORAFUS.AI Book (published via mdBook) is the official digital publication of PANORAFUS.AI. It consolidates the global network index, theological studies, institutional directories, and eschatological resources into a single accessible, searchable resource.",
-      "file": "BOOK_TARIFF.md",
-      "committedAt": "2026-09-17T12:28:14Z",
-      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/BOOK_TARIFF.md",
-      "sha": "71ac0e260809589c0ea0f7778e6934fed7124e12"
-    },
-    {
-      "title": "Buddhist Religious Institutions",
-      "summary": "A structured overview of major Buddhist religious institutions worldwide, organized by tradition and function.",
-      "file": "BUDDHIST_INSTITUTIONS.md",
-      "committedAt": "2026-09-17T12:28:14Z",
-      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/BUDDHIST_INSTITUTIONS.md",
-      "sha": "71ac0e260809589c0ea0f7778e6934fed7124e12"
-    },
-    {
-      "title": "Christian Religious Institutions",
-      "summary": "A structured overview of major Christian religious institutions worldwide, organized by tradition/denomination.",
-      "file": "CHRISTIAN_INSTITUTIONS.md",
-      "committedAt": "2026-09-17T12:28:14Z",
-      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/CHRISTIAN_INSTITUTIONS.md",
-      "sha": "71ac0e260809589c0ea0f7778e6934fed7124e12"
     },
     {
       "title": "PANORAFUS.AI",
