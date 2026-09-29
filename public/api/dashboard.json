@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T16:15:37.806Z",
+  "generatedAt": "2026-09-29T20:48:23.339Z",
   "dataSources": [
     "Top-level PANORAFUS.AI documentation files",
     "Git commit history for the current calendar year",
@@ -104,38 +104,38 @@
     {
       "monthIndex": 5,
       "month": "June",
-      "commits": 2,
-      "docsTouched": 2,
+      "commits": 0,
+      "docsTouched": 0,
       "workflowChanges": 0,
       "codeChanges": 0,
-      "totalActivity": 4
+      "totalActivity": 0
     },
     {
       "monthIndex": 6,
       "month": "July",
-      "commits": 41,
-      "docsTouched": 62,
-      "workflowChanges": 12,
+      "commits": 0,
+      "docsTouched": 0,
+      "workflowChanges": 0,
       "codeChanges": 0,
-      "totalActivity": 115
+      "totalActivity": 0
     },
     {
       "monthIndex": 7,
       "month": "August",
-      "commits": 137,
-      "docsTouched": 396,
-      "workflowChanges": 24,
-      "codeChanges": 42,
-      "totalActivity": 599
+      "commits": 0,
+      "docsTouched": 0,
+      "workflowChanges": 0,
+      "codeChanges": 0,
+      "totalActivity": 0
     },
     {
       "monthIndex": 8,
       "month": "September",
-      "commits": 100,
-      "docsTouched": 245,
-      "workflowChanges": 0,
-      "codeChanges": 55,
-      "totalActivity": 400
+      "commits": 1,
+      "docsTouched": 381,
+      "workflowChanges": 7,
+      "codeChanges": 20,
+      "totalActivity": 409
     },
     {
       "monthIndex": 9,
@@ -175,7 +175,7 @@
   },
   "trending": {
     "headline": "TRENDING \"PANORAFUS.AI\" TODAY THROUGH THE SIX CONTINENTS.",
-    "generatedDate": "2026-09-21",
+    "generatedDate": "2026-09-29",
     "activeRegions": 6,
     "totalRegions": 6,
     "institutionsIndexed": 177,
