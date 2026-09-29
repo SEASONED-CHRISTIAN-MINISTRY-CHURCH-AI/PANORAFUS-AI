@@ -11,7 +11,7 @@
     }
   },
   "metrics": {
-    "generatedAt": "2026-09-21T16:15:37.770Z",
+    "generatedAt": "2026-09-29T20:48:20.727Z",
     "docsCount": 52,
     "docsLines": 9151,
     "externalLinks": 96,
@@ -171,38 +171,38 @@
       {
         "monthIndex": 5,
         "month": "June",
-        "commits": 2,
-        "docsTouched": 2,
+        "commits": 0,
+        "docsTouched": 0,
         "workflowChanges": 0,
         "codeChanges": 0,
-        "totalActivity": 4
+        "totalActivity": 0
       },
       {
         "monthIndex": 6,
         "month": "July",
-        "commits": 41,
-        "docsTouched": 62,
-        "workflowChanges": 12,
+        "commits": 0,
+        "docsTouched": 0,
+        "workflowChanges": 0,
         "codeChanges": 0,
-        "totalActivity": 115
+        "totalActivity": 0
       },
       {
         "monthIndex": 7,
         "month": "August",
-        "commits": 137,
-        "docsTouched": 396,
-        "workflowChanges": 24,
-        "codeChanges": 42,
-        "totalActivity": 599
+        "commits": 0,
+        "docsTouched": 0,
+        "workflowChanges": 0,
+        "codeChanges": 0,
+        "totalActivity": 0
       },
       {
         "monthIndex": 8,
         "month": "September",
-        "commits": 100,
-        "docsTouched": 245,
-        "workflowChanges": 0,
-        "codeChanges": 55,
-        "totalActivity": 400
+        "commits": 1,
+        "docsTouched": 381,
+        "workflowChanges": 7,
+        "codeChanges": 20,
+        "totalActivity": 409
       },
       {
         "monthIndex": 9,
