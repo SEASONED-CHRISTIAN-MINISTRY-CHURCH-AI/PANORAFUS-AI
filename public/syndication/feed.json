@@ -6,6 +6,13 @@
   "description": "Repository-backed PANORAFUS.AI content and metrics updates.",
   "items": [
     {
+      "id": "PANORAFUS_DASHBOARD.md:e0e8a0d7759a347ecdb59ed5c99721ebed42f5f0",
+      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/PANORAFUS_DASHBOARD.md",
+      "title": "PANORAFUS.AI — Global Dashboard Page",
+      "summary": "PANORAFUS.AI dashboard overview powered by live repository metrics, indexed institution data, and workflow automation status.",
+      "date_published": "2026-09-29T20:48:21Z"
+    },
+    {
       "id": "BLOOD_SACRIFICES_CHRIST_THE_LAMB.md:28a6b753b49986a755336eae26cd4a335bf00aee",
       "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/BLOOD_SACRIFICES_CHRIST_THE_LAMB.md",
       "title": "BLOOD SACRIFICES — CHRIST THE LAMB",
@@ -60,13 +67,6 @@
       "title": "Christian Religious Institutions",
       "summary": "A structured overview of major Christian religious institutions worldwide, organized by tradition/denomination.",
       "date_published": "2026-09-29T20:48:02Z"
-    },
-    {
-      "id": "PANORAFUS_DASHBOARD.md:f3d5b8d2448b11f5fb9e55d5fd43775c6762f05b",
-      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/PANORAFUS_DASHBOARD.md",
-      "title": "PANORAFUS.AI — Global Dashboard Page",
-      "summary": "PANORAFUS.AI dashboard overview powered by live repository metrics, indexed institution data, and workflow automation status.",
-      "date_published": "2026-09-17T12:53:00Z"
     },
     {
       "id": "README.md:1a92594bd998037126bfefed7895b351012a9a57",

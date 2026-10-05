@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T20:48:20.772Z",
+  "generatedAt": "2026-10-05T19:05:33.043Z",
   "dashboard": {
-    "generatedAt": "2026-09-29T20:48:20.772Z",
+    "generatedAt": "2026-10-05T19:05:33.043Z",
     "dataSources": [
       "Top-level PANORAFUS.AI documentation files",
       "Git commit history for the current calendar year",
@@ -133,20 +133,20 @@
       {
         "monthIndex": 8,
         "month": "September",
-        "commits": 1,
-        "docsTouched": 381,
+        "commits": 2,
+        "docsTouched": 383,
         "workflowChanges": 7,
         "codeChanges": 20,
-        "totalActivity": 409
+        "totalActivity": 412
       },
       {
         "monthIndex": 9,
         "month": "October",
-        "commits": 0,
+        "commits": 2,
         "docsTouched": 0,
-        "workflowChanges": 0,
+        "workflowChanges": 1,
         "codeChanges": 0,
-        "totalActivity": 0
+        "totalActivity": 3
       },
       {
         "monthIndex": 10,
@@ -169,15 +169,15 @@
     ],
     "kpis": {
       "documentationFiles": 52,
-      "documentationLines": 9151,
+      "documentationLines": 9150,
       "externalLinks": 96,
-      "workflows": 7,
+      "workflows": 6,
       "institutionsIndexed": 177,
       "dashboardPlaceholders": 0
     },
     "trending": {
       "headline": "TRENDING \"PANORAFUS.AI\" TODAY THROUGH THE SIX CONTINENTS.",
-      "generatedDate": "2026-09-29",
+      "generatedDate": "2026-10-05",
       "activeRegions": 6,
       "totalRegions": 6,
       "institutionsIndexed": 177,
@@ -190,7 +190,6 @@
     },
     "workflows": [
       "autopilot-health.yml",
-      "codeql.yml",
       "content-syndication.yml",
       "docs-autopilot.yml",
       "mdbook.yml",
@@ -199,6 +198,14 @@
     ]
   },
   "items": [
+    {
+      "title": "PANORAFUS.AI — Global Dashboard Page",
+      "summary": "PANORAFUS.AI dashboard overview powered by live repository metrics, indexed institution data, and workflow automation status.",
+      "file": "PANORAFUS_DASHBOARD.md",
+      "committedAt": "2026-09-29T20:48:21Z",
+      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/PANORAFUS_DASHBOARD.md",
+      "sha": "e0e8a0d7759a347ecdb59ed5c99721ebed42f5f0"
+    },
     {
       "title": "BLOOD SACRIFICES — CHRIST THE LAMB",
       "summary": "An Eschatology-Centered Biblical Study of Sin, Atonement, and the Triumph of the Lamb of God",
@@ -262,14 +269,6 @@
       "committedAt": "2026-09-29T20:48:02Z",
       "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/CHRISTIAN_INSTITUTIONS.md",
       "sha": "28a6b753b49986a755336eae26cd4a335bf00aee"
-    },
-    {
-      "title": "PANORAFUS.AI — Global Dashboard Page",
-      "summary": "PANORAFUS.AI dashboard overview powered by live repository metrics, indexed institution data, and workflow automation status.",
-      "file": "PANORAFUS_DASHBOARD.md",
-      "committedAt": "2026-09-17T12:53:00Z",
-      "url": "https://github.com/jpaul11-code/PANORAFUS/blob/main/PANORAFUS_DASHBOARD.md",
-      "sha": "f3d5b8d2448b11f5fb9e55d5fd43775c6762f05b"
     },
     {
       "title": "PANORAFUS.AI",

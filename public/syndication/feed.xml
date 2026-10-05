@@ -4,7 +4,15 @@
     <title>PANORAFUS.AI Content Syndication Feed</title>
     <link>https://www.seasonedchristianministrychurch.com</link>
     <description>Repository-backed PANORAFUS.AI content and metrics updates.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 20:48:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 19:05:33 GMT</lastBuildDate>
+
+    <item>
+      <title>PANORAFUS.AI — Global Dashboard Page</title>
+      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/PANORAFUS_DASHBOARD.md</link>
+      <guid>PANORAFUS_DASHBOARD.md:e0e8a0d7759a347ecdb59ed5c99721ebed42f5f0</guid>
+      <pubDate>Tue, 29 Sep 2026 20:48:21 GMT</pubDate>
+      <description>PANORAFUS.AI dashboard overview powered by live repository metrics, indexed institution data, and workflow automation status.</description>
+    </item>
 
     <item>
       <title>BLOOD SACRIFICES — CHRIST THE LAMB</title>
@@ -68,14 +76,6 @@
       <guid>CHRISTIAN_INSTITUTIONS.md:28a6b753b49986a755336eae26cd4a335bf00aee</guid>
       <pubDate>Tue, 29 Sep 2026 20:48:02 GMT</pubDate>
       <description>A structured overview of major Christian religious institutions worldwide, organized by tradition/denomination.</description>
-    </item>
-
-    <item>
-      <title>PANORAFUS.AI — Global Dashboard Page</title>
-      <link>https://github.com/jpaul11-code/PANORAFUS/blob/main/PANORAFUS_DASHBOARD.md</link>
-      <guid>PANORAFUS_DASHBOARD.md:f3d5b8d2448b11f5fb9e55d5fd43775c6762f05b</guid>
-      <pubDate>Thu, 17 Sep 2026 12:53:00 GMT</pubDate>
-      <description>PANORAFUS.AI dashboard overview powered by live repository metrics, indexed institution data, and workflow automation status.</description>
     </item>
 
     <item>
