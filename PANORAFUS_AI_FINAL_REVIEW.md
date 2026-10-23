@@ -67,7 +67,7 @@ Automated workflows maintain platform health continuously:
 | Link Health Monitor | Scheduled / Manual | ✅ Active |
 | Autopilot Health | Weekly / Manual | ✅ Active |
 | Content Syndication | Scheduled / Manual | ✅ Active |
-| CodeQL Security Scan | Push / PR / Scheduled | ✅ Active |
+| CodeQL Security Scan | GitHub default setup | ✅ Active |
 
 ### 5. Platform API Integration
 The executable PANORAFUS.AI API is ready for integration and consumption:
