@@ -83,6 +83,26 @@ The PANORAFUS.AI Global Network currently indexes institutions across:
 
 ---
 
+## How the Platform Works
+
+PANORAFUS.AI combines a Scripture-centered documentation library with a repository-backed global directory and lightweight platform services:
+
+- **Theological and devotional library:** Read studies, prayers, and ministry resources, with Biblical Eschatology identified by the project as its first priority.
+- **Institution directory:** Browse or search the institution indexes by name, location, tradition, category, or region. Entries are compiled from the repository's published index tables; a listing is a discovery aid, not an endorsement or independent verification of an institution.
+- **Documentation-aware Q&A:** Ask questions about repository content through the chat endpoint. The default local provider matches question terms to document sections and returns up to three relevant sections with file citations. An optional external provider can be configured; if it fails, the service falls back to local answers. This is a repository search aid, not a substitute for Scripture study, pastoral counsel, or expert advice.
+- **Dashboard and feeds:** The API and generated snapshots expose institution coverage, documentation and workflow metrics, repository activity, and published content updates.
+- **Automation and publishing:** Repository workflows check documentation links and branding, monitor links, publish health summaries, and generate reviewable dashboard and syndication artifacts.
+
+The service can be run locally with `npm start`. Its principal API routes include `/api/health`, `/api/dashboard`, `/api/institutions`, `/api/institutions/search?q=...`, and `/api/chat?q=...`. These services operate on the repository's published content and configuration; they do not establish that every listing is current or that every answer is complete.
+
+## Efficacy and Accountability
+
+PANORAFUS.AI's efficacy is best assessed in terms of what the platform can verify and deliver: whether people can find its published resources, whether directory searches return relevant indexed entries, whether Q&A responses cite repository files, and whether automated checks and generated artifacts remain healthy. The dashboard makes several of these operational signals inspectable, including indexed institution counts, documentation and workflow counts, link totals, and repository activity.
+
+These indicators describe the repository and its services—not readership, accuracy of every source, institutional endorsement, spiritual outcomes, or measurable impact on communities. The project does not claim independent evaluation or demonstrated real-world outcomes. To assess those outcomes, the ministry would need transparent, appropriately gathered evidence such as user feedback, accessibility testing, directory correction reports, and regular review of whether published information remains accurate. Any such assessment should respect privacy and avoid treating activity counts as proof of effectiveness.
+
+---
+
 ## Contact & Partnership
 
 For partnership inquiries, institution listings, or collaboration with PANORAFUS.AI:
