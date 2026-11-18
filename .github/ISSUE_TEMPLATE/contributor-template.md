@@ -3,7 +3,7 @@ name: Contributor template
 about: Open an eschatology-centered contribution request for PANORAFUS.AI.
 title: ''
 labels: ''
-assignees: ''
+assignees: jpaul11-code
 
 ---
 
